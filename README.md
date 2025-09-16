@@ -16,3 +16,7 @@ Key Findings
 - Discharge disposition also played a critical role: patients discharged home, transferred to another facility, or sent to hospice care showed distinct risk profiles. 
 - Chronic conditions such as diabetes (presence or absence of medication), circulatory disorders, musculoskeletal issues, and neoplasm were consistently associated with higher readmission likelihood. 
 - These findings highlight the importance of proactive discharge planning, chronic disease management, and targeted follow-up for high-risk patient groups to reduce avoidable readmissions.
+
+📂 Dataset
+
+This project uses the Diabetes 130-US hospitals readmission dataset from the UCI Machine Learning Repository.
