@@ -15,7 +15,8 @@ Key Findings
 - Analysis of feature importances from the XGBoost model revealed that prior hospital utilization, particularly the number of previous inpatient admissions and emergency visits, was the strongest predictor of readmission. 
 - Discharge disposition also played a critical role: patients discharged home, transferred to another facility, or sent to hospice care showed distinct risk profiles. 
 - Chronic conditions such as diabetes (presence or absence of medication), circulatory disorders, musculoskeletal issues, and neoplasm were consistently associated with higher readmission likelihood. 
-- These findings highlight the importance of proactive discharge planning, chronic disease management, and targeted follow-up for high-risk patient groups to reduce avoidable readmissions.
+
+These findings highlight the importance of proactive discharge planning, chronic disease management, and targeted follow-up for high-risk patient groups to reduce avoidable readmissions.
 
 📂 Dataset
 
